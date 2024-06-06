@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IDEA PROJECTS.iml" filepath="$PROJECT_DIR$/.idea/IDEA PROJECTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSF1/SpringBootSF1.iml" filepath="$PROJECT_DIR$/SpringBootSF1/SpringBootSF1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_2023-main/springstudents.iml" filepath="$PROJECT_DIR$/spring_boot_2023-main/springstudents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spw/spw/spw.iml" filepath="$PROJECT_DIR$/spw/spw/spw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tgbot/tgbot.iml" filepath="$PROJECT_DIR$/tgbot/tgbot.iml" />
+    </modules>
+  </component>
+</project>
