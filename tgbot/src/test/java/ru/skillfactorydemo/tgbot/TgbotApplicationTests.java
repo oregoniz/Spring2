@@ -1,10 +1,10 @@
-package SkillFactory.spw;
+package ru.skillfactorydemo.tgbot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpwApplicationTests {
+class TgbotApplicationTests {
 
 	@Test
 	void contextLoads() {
